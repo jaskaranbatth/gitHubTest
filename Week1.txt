@@ -1,0 +1,50 @@
+Week 1
+
+-What is use for.
+
+When we develop the application?
+
+-Reusability
+-Maintainability
+-Highly maintainable (Code easy to understand)
+-flexibility(Should be add new feautres without breakable)
+-Extensibility(We can add new feautures without modifing the old code)
+
+
+
+Main
+>Inheritance (Code reuse,Behaviour from the main class)
+
+>Polymorphism (Same message to different object of subclases and
+each have their own different version)
+>Encapsulation(Hiding information)
+>Abstraction
+
+
+
+Absract Method
+(If the method is abstract that mean that u cannot 
+define in the super class and you have to define 
+have into subclass)
+
+-If the method is static then you dont have to 
+create an object to call the method.
+
+
+Rules of Principle:
+1) Always use most restracted modifier = Private
+
+
+
+Main advantages are :
+1 -  works simantounsly
+
+disadvantages
+-If reporatry crash data lost
+- reporarty get update then workers cant work on file.
+
+
+
+ 
+
+
